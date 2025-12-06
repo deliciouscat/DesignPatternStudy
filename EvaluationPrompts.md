@@ -1,0 +1,1 @@
+Composite Pattern을 잘 숙지했는지 스스로를 테스트하기 위해 특정 시나리오를 가정 한 후 pseudo code를 작성했어. `# 답`을 평가해봐.
